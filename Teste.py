@@ -1,3 +1,5 @@
 print("Hello World")
 print("The sum is:")
 print(5 + 10)
+print("The product is:")
+print(5 * 10)
